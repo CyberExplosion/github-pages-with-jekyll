@@ -1,13 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Weebo BackStage
+author: CyberExplosion
+email: minhkhoi632000@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a place for me to record my daily activities as well as things I want
+  to share. This is no place for open discussion or under any rules but mine
+  alone. Posts from here will be under my judgement and based on my opinion alone.
+  Nothing in here shall and never be used as personal attack against anybody.
+  (Typical as it maybe, this web sole purpose is just to allow me to have a place
+  to rant about my sad life, therefore no one should even be bother to look into
+  this for any gains :pray:)
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: GT_Explosion
+github_username:  CyberExplosion
 
 show_excerpts: true # set to false to remove excerpts on the homepage
